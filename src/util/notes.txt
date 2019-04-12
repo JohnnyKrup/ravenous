@@ -1,0 +1,7 @@
+AppName : Ravenous
+
+Client ID
+SJq26VqjMcroI9Ndkq8yFw
+
+API Key
+m_-jkH44pH_9CCrFJJhKO02ldzNepaWXYKGLMPccm2uN4IV28ywwnqKqWD9QlMCwtDXZl-arKkEKnwl7HuWfmadr-JSgUAe3RTQ_zhSpjYTmd0yTp4RrX1EkEgWqXHYx
